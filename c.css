@@ -1,0 +1,24 @@
+.navbar {
+    background-color: #1b262c;
+}
+
+.navbar .collapse .navbar-nav .nav-item .nav-link{
+font-family: 'Ruwudu', serif;}
+
+
+header{
+    background-image: url(2000_5cdbfc5e601f7.jpg);
+    height: 100vh;
+
+}
+
+.overlay{
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #000;
+    opacity: 0.5;
+    z-index: -1;
+}
